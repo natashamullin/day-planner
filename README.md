@@ -31,6 +31,8 @@ Super simple and straight forward. open up the website. navigate to the hour you
 ```md
 ![alt text](assets/img/screenshot 2020-12-21 21.48.32.png)
 ```
+click here to see!
+ https://natashamullin.github.io/keep-organized/.
 
 
 ## Credits
